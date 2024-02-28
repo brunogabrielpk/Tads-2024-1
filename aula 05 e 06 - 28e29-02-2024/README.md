@@ -2,7 +2,7 @@
 valendo 1 ponto na prova.
 
 
-## 1: App de casdastro simples
+## 1: App de cadastro simples
 A primeira etapa dessa atividade consiste na criação de uma aplicação de cadastro de usuários.
 - A aplicação deve rodar pelo terminal.
 - A linguagem de programação usada deve ser Golang
