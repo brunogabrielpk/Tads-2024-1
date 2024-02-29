@@ -22,3 +22,10 @@ Uma vez hospedada a imagem no dockerhub, eu irei realizar do download da imagem,
 
 ## Atividade poderá se feita em duplas. 
 ## Algumas duplas serão selecionadas para explicar o código.
+
+
+
+## Edit
+Ora ora ora se não é a ajuda que ninguém pediu mas todos precisavam.
+adicionei um arquivo para servir de 'base' no projetinho de vocês.
+deem uma conferida nele.

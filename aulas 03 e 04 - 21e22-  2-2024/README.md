@@ -19,3 +19,9 @@ Houve uma dúvida sobre criação de conatainers não-interativos.
 Se você usar o comando `docker run` sem a taga `-it` esse container será 
 um container não interativo permanentemente e não será possível mudar isso depois.
 Eu mesmo fiquei em dúvida sobre isso mas após pesquisar puder chegar a essa conclusão.
+
+
+
+
+
+
